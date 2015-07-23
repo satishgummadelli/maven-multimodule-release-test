@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.shitha.maventest</groupId>
 	<artifactId>maven-multimodule-release-test</artifactId>
-	<version>1.1.5</version>
+	<version>1.1.5-SNAPSHOT</version>
 	<packaging>pom</packaging>
 	<modules>
 		<module>maven-child-module</module>
