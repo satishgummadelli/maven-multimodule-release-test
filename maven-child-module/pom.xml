@@ -3,7 +3,7 @@
   <parent>
     <groupId>org.shitha.maventest</groupId>
     <artifactId>maven-multimodule-release-test</artifactId>
-    <version>1.1.7</version>
+    <version>1.1.7-SNAPSHOT</version>
   </parent>
   <artifactId>maven-child-module</artifactId>
   <dependencies>
