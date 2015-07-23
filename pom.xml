@@ -10,7 +10,7 @@
 	<scm>
 		<url>https://github.com/satishgummadelli/maven-multimodule-release-test</url>
 		<connection>scm:git:git://github.com/satishgummadelli/maven-multimodule-release-test.git</connection>
-		<developerConnection>scm:git:ssh://satishgummadelli@github.com:satishgummadelli/maven-multimodule-release-test.git</developerConnection>
+		<developerConnection>scm:git:https://satishgummadelli:Amalu8494@github.com:satishgummadelli/maven-multimodule-release-test.git</developerConnection>
 	  <tag>maven-multimodule-release-test-1.1.7</tag>
   </scm>
 	<build>
